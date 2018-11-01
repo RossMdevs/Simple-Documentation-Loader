@@ -1,3 +1,3 @@
 # Simple-Documentation-Loader
-
-## Standalone Doc Launcher using 1 file!
+ 
+Launch a file using one simple command!
