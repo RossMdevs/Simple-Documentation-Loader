@@ -1,0 +1,18 @@
+{
+  "name": "docloader",
+  "version": "1.0.0",
+  "description": "loads simple docs",
+  "main": "main.js",
+  "dependencies": {
+    "opn": "^5.4.0"
+  },
+  "devDependencies": {
+    "electron": "^2.0.3",
+    "electron-winstaller": "^2.6.4"
+  },
+  "scripts": {
+    "npm start": "node main.js"
+  },
+  "author": "Ross",
+  "license": "MIT"
+}
