@@ -1,2 +1,3 @@
 # Simple-Documentation-Loader
-Loads a doc file using JS
+
+## Standalone Doc Launcher using 1 file!
